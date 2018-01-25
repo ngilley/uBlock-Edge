@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
 
-    "name": "uBlock Origin",
-    "version": "1.14.22",
+    "name": "LG Hydra Plugin",
+    "version": "1.14.25.101",
 
     "commands": {
         "launch-element-zapper": {

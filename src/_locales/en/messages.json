@@ -1,6 +1,6 @@
 {
   "extName":{
-    "message":"uBlock₀",
+    "message":"LG Hydra Plugin",
     "description":"extension name."
   },
   "extShortDesc":{
@@ -8,8 +8,8 @@
     "description":"this will be in the chrome web store: must be 132 characters or less"
   },
   "dashboardName":{
-    "message":"uBlock₀ — Dashboard",
-    "description":"English: uBlock₀ — Dashboard"
+    "message":"LG Hydra Plugin — Dashboard",
+    "description":"English: LG Blocker — Dashboard"
   },
   "settingsPageName":{
     "message":"Settings",
@@ -511,6 +511,10 @@
     "message":"Behind the scene",
     "description":"Pretty name for behind-the-scene network requests"
   },
+  "loggerCurrentTab":{
+    "message":"Current tab",
+    "description":"Appears in the logger's tab selector"
+  },
   "logFilterPrompt":{
     "message":"filter log entries",
     "description": "English: filter log entries"
@@ -578,6 +582,10 @@
   "aboutChangelog":{
     "message":"Change log",
     "description":"English: Change log"
+  },
+  "aboutLookingglass":{
+    "message":"LookingGlass Cyber Solutions",
+    "description":"English: LookingGlass Cyber Solutions"
   },
   "aboutWiki":{
     "message":"Wiki",
